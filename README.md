@@ -46,3 +46,31 @@
 
 ---
 
+# Проекты
+
+Тестирование функционала раздела "Личные события" в расписании для преподавателей веб-сервиса Skyeng
+
+## Требования
+
+https://docs.google.com/document/d/1TuHi_hNJCq_KbS28hxGFsTUkEFl_AvxtC5UnVR5kjys/edit?usp=sharing
+
+## Задачи
+
+1. Декомпозиция системы
+2. Подготовка тестовой документации
+3. Проведение функционального тестирования через UI
+4. Проведение функционального тестирования через API
+
+## Что было сделано
+
+### 1. Декомпозция системы
+
+https://docs.google.com/document/d/1dXYV6cm4SvMJBacy22FS0aOYMHGYdRQvKCaI_sqgixc/edit?usp=sharing
+
+### 2. Тестовая документация
+
+https://docs.google.com/document/d/1g2TuD-bSNyrk1BmUPPSF8yY_mkX4Ckip-RV_6WtQilA/edit?usp=sharing
+
+### 3. Функциональное тестирование (UI и API)
+
+https://docs.google.com/document/d/1g2TuD-bSNyrk1BmUPPSF8yY_mkX4Ckip-RV_6WtQilA/edit?usp=sharing
