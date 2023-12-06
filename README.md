@@ -71,6 +71,4 @@ https://docs.google.com/document/d/1dXYV6cm4SvMJBacy22FS0aOYMHGYdRQvKCaI_sqgixc/
 
 https://docs.google.com/document/d/1g2TuD-bSNyrk1BmUPPSF8yY_mkX4Ckip-RV_6WtQilA/edit?usp=sharing
 
-### 3. Функциональное тестирование (UI и API)
 
-https://docs.google.com/document/d/1g2TuD-bSNyrk1BmUPPSF8yY_mkX4Ckip-RV_6WtQilA/edit?usp=sharing
